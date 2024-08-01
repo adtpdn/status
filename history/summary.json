@@ -22,18 +22,20 @@
     "url": "https://www.adenenergies.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.adenenergies.com.ico",
     "slug": "adenenergies-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1486,
-    "timeDay": 1472,
-    "timeWeek": 1524,
-    "timeMonth": 1470,
-    "timeYear": 1486,
-    "dailyMinutesDown": {}
+    "time": 1476,
+    "timeDay": 1127,
+    "timeWeek": 1432,
+    "timeMonth": 1449,
+    "timeYear": 1476,
+    "dailyMinutesDown": {
+      "2024-08-01": 0
+    }
   },
   {
     "name": "nx-park.com",
