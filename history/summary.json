@@ -24,9 +24,9 @@
     "slug": "adenenergies-com",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.67%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "99.70%",
     "time": 1484,
     "timeDay": 1272,
@@ -34,7 +34,7 @@
     "timeMonth": 1545,
     "timeYear": 1484,
     "dailyMinutesDown": {
-      "2024-11-02": 0,
+      "2024-11-02": 3,
       "2024-10-25": 582,
       "2024-09-28": 71
     }
