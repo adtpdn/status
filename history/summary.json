@@ -4,19 +4,19 @@
     "url": "adengroup.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adengroup-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1413,
-    "timeDay": 1412,
-    "timeWeek": 1288,
-    "timeMonth": 1353,
-    "timeYear": 1413,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 1415,
+    "timeDay": 1509,
+    "timeWeek": 1328,
+    "timeMonth": 1361,
+    "timeYear": 1415,
     "dailyMinutesDown": {
-      "2024-11-06": 0
+      "2024-11-06": 19
     }
   },
   {
