@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "adenenergies-com",
     "status": "up",
-    "uptime": "97.76%",
+    "uptime": "97.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "97.76%",
+    "uptimeYear": "97.77%",
     "time": 1462,
     "timeDay": 1498,
     "timeWeek": 1481,
@@ -72,9 +72,9 @@
     "url": "https://www.akila3d.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.akila3d.com.ico",
     "slug": "akila3d-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -83,6 +83,8 @@
     "timeWeek": 2384,
     "timeMonth": 2178,
     "timeYear": 1603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-24": 0
+    }
   }
 ]
